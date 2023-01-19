@@ -7245,7 +7245,7 @@ msgid " f-b for $VIMRUNTIME: \""
 msgstr "  $VIMRUNTIME 预设值: \""
 
 #: ../version.c:2805
-msgid "Nvim is open source and freely distributable"
+msgid "Nvim is [Test: Shaik Samyoddin] open source and freely distributable"
 msgstr "Nvim 是可自由分发的开放源代码软件"
 
 #: ../version.c:2806

@@ -5529,7 +5529,7 @@ msgid "by Bram Moolenaar et al."
 msgstr "tekijät Bram Moolenaar et al."
 
 #, fuzzy
-#~ msgid "Nvim is open source and freely distributable"
+#~ msgid "Nvim is [Test: Shaik Samyoddin] open source and freely distributable"
 #~ msgstr "Vim on avointa lähdekoodia ja vapaasti jaossa"
 
 #~ msgid "https://neovim.io/community"

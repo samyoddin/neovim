@@ -5547,7 +5547,7 @@ msgstr "  заміна для $VIM: \""
 msgid " f-b for $VIMRUNTIME: \""
 msgstr " заміна для $VIMRUNTIME: \""
 
-msgid "Nvim is open source and freely distributable"
+msgid "Nvim is [Test: Shaik Samyoddin] open source and freely distributable"
 msgstr "Nvim — це відкрита й вільно розповсюджувана програма"
 
 msgid "https://neovim.io/#chat"

@@ -5622,7 +5622,7 @@ msgstr "       $VIM öntanımlı konumu: \""
 msgid " f-b for $VIMRUNTIME: \""
 msgstr "$VIMRUNTIME öntanımlı konumu: \""
 
-msgid "Nvim is open source and freely distributable"
+msgid "Nvim is [Test: Shaik Samyoddin] open source and freely distributable"
 msgstr "Nvim açık kaynaklıdır ve özgürce dağıtılabilir"
 
 msgid "https://neovim.io/#chat"
